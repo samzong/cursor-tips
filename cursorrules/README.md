@@ -4,7 +4,12 @@
 
 This repository contains the cursor rules for Cursor.
 
+And this idea comes from [futantan](https://x.com/EclipsePrayer/status/1831222375180063035) and is optimized using LLMs.
+
+## Cursor Rules
+
 - [x] Python Web Developer
+- [x] Technical Writer
 
 ## How to use
 
